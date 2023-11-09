@@ -1,0 +1,19 @@
+Assunto: Banco de Dados NO-SQL
+
+Título: "Por que Grandes Empresas Estão Optando por Banco de Dados Não-Relacionais?"
+
+> Comporte-se como um escritor de artigos tech e escreva o Artigo atendendo as regras 
+
+{Regras}
+> No máximo 10 linhas por blocos de explicação
+> Me explique de maneira formal e detalhada
+
+
+##Blocos
+
+- Introdução à Banco de Dados
+- O que são Banco de Dados Não-Relacionais?
+- Quais são as vantagens dos Bancos de Dados Não-Relacionais?
+- Projetos que foram utilizados Bancos de Dados Não-Relacionais
+- Faça um call to action para o usuário interagir
+- Coloque 3 hashtags que façam sentido
